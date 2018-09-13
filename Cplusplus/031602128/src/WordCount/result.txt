@@ -1,0 +1,13 @@
+character: 1000000
+words: 200000
+lines: 1
+<aaaa>: 2
+<aaab>: 2
+<aaac>: 2
+<aaad>: 2
+<aaae>: 2
+<aaaf>: 2
+<aaag>: 2
+<aaah>: 2
+<aaai>: 2
+<aaaj>: 2
