@@ -1,0 +1,13 @@
+characters: 2731
+words: 274
+lines: 32
+<rain>: 10
+<through>: 9
+<said>: 7
+<they>: 7
+<take>: 6
+<this>: 6
+<away>: 5
+<time>: 5
+<their>: 4
+<what>: 4
